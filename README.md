@@ -3,11 +3,9 @@ A script which enters the lane and instalocks in Blind pick.
 
 How to use it 
 
-1. Be in a blind pick lobby and run the script.
-2. Enter your lane and champion
-3. Find a game and Accept. 
-4. The script will do some magic.
-5. done.
+1. Run the script and choose your lane and champion
+2. Find a Game and Accept.
+3. The script will do it's work.
 
 important: Please don't cover the League client while accepting a game.
 
